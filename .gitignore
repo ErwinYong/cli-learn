@@ -1,0 +1,15 @@
+# Dependency directories
+node_modules
+.DS_Store
+*/.DS_Store
+
+# vuepress build output
+.vuepress/dist
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
